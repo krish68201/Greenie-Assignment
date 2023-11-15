@@ -1,4 +1,5 @@
-# Dashboard Project
+# Greenie Assignment Task - SDE Hiring 2023
+## Dashboard Project
 This is a simple React dashboard project with user details and account creation tabs. The project uses Tailwind CSS for styling and provides a clean and responsive user interface.
 
 ## Features
@@ -20,3 +21,7 @@ src/components: Contains React components for different sections of the dashboar
 src/db.js: Placeholder database with user data.
 src/App.js: Main application component.
 src/index.js: Entry point of the application.
+
+
+# Krishnika Gupta 
+# krishnikagupta136@gmail.com
